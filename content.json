@@ -5,14 +5,12 @@
   "sections": [
     {
       "heading": "About",
-      "text": "I tinker with stuff. I like retro stuff, terminals and hexadecimal, coding, science, and more.",
+      "text": "just go look at the profile on the main site.",
       "images": ["Cube_rotation.gif"]
     }
   ],
   "links": [
     { "label": "YOU ARE HERE - Home", "href": "./" },
-    { "label": "Location and Communication", "href": "/profile-location/" },
-    { "label": "cool stuff", "href": "/profile-stuff/" },
     { "label": "Main Website Hub", "href": "/" }
   ]
 }
