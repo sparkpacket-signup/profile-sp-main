@@ -1,0 +1,18 @@
+{
+  "title": "sparkpacket - home",
+  "subtitle": "sparkpacket profile",
+  "intro": "welcome",
+  "sections": [
+    {
+      "heading": "About",
+      "text": "I tinker with stuff. I like retro stuff, terminals and hexadecimal, coding, science, and more.",
+      "images": ["Cube_rotation.gif"]
+    }
+  ],
+  "links": [
+    { "label": "YOU ARE HERE - Home", "href": "./" },
+    { "label": "Location and Communication", "href": "/profile-location/" },
+    { "label": "cool stuff", "href": "/profile-stuff/" },
+    { "label": "Main Website Hub", "href": "/" }
+  ]
+}
